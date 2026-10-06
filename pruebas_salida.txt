@@ -1,0 +1,7 @@
+OK  t01
+OK  t02
+OK  t03
+OK  t04
+OK  t05
+OK  t06
+Todas las pruebas pasaron.

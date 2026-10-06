@@ -1,0 +1,24 @@
+help
+crear editor 4 3
+crear compilador 6 2
+crear navegador 8 2
+mem
+ps
+step
+step
+step
+mem
+crear navegador 8 2
+guardar notas Entrega 2 del Mini-SO
+guardar log arranque correcto
+ls
+ver notas
+ver inexistente
+step
+step
+step
+step
+ps
+mem
+bailar
+salir
