@@ -4,4 +4,10 @@ OK  t03
 OK  t04
 OK  t05
 OK  t06
+OK  t07
+OK  t08
+OK  t09
+OK  t10
+OK  t11
+OK  t12
 Todas las pruebas pasaron.
