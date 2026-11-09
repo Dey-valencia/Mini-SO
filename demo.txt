@@ -1,19 +1,29 @@
 help
 crear editor 4 3
-crear compilador 6 2
-crear navegador 8 2
+crear compilador 6 3
+crear navegador 4 2
 mem
 ps
 step
 step
 step
+ps
+quantum 3
+kill 2
 mem
-crear navegador 8 2
-guardar notas Entrega 2 del Mini-SO
+crear grande 8 2
+compactar
+mem
+crear grande 8 2
+guardar notas Entrega final del Mini-SO
 guardar log arranque correcto
 ls
 ver notas
-ver inexistente
+borrar log
+ls
+ver log
+step
+step
 step
 step
 step
